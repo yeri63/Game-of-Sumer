@@ -1,6 +1,6 @@
 # Game of Sumer
 
-![Screenshot of Sumer](https://github.com/yeri63-hp48g/Sumer/raw/main/Sumer.png)
+![Screenshot of Sumer](Sumer.png)
 
 Here is a simulation program/game which ran on a minimal Digital Equipment PDP-8 system. The following description was taken from the 1973 DECUS Program Library Catalog. 
 
